@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/selectcity/brn_index_bar.dart';
-import 'package:xl_flutter/src/components/selectcity/brn_suspension_view.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/selectcity/brn_index_bar.dart';
+import 'package:UIKit/src/components/selectcity/brn_suspension_view.dart';
 
 /// Called to build children for the listView.
 /// 列表的Item

@@ -2,7 +2,7 @@ import 'dart:core';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 查看大图交互模式-详情页
 /// 组件提供了（列表页<-->详情页）这种交互模式的骨架，

@@ -3,8 +3,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/utils/brn_text_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/utils/brn_text_util.dart';
 
 /// popup window 位于 targetView 的方向
 enum BrnPopupDirection {

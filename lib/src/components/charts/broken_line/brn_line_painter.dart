@@ -4,9 +4,9 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:path_drawing/path_drawing.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/charts/broken_line/brn_base_painter.dart';
-import 'package:xl_flutter/src/components/charts/broken_line/monotone_x.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/charts/broken_line/brn_base_painter.dart';
+import 'package:UIKit/src/components/charts/broken_line/monotone_x.dart';
 
 class BrnLinePainter extends BrnBasePainter {
   int lineSelectIndex = -1;

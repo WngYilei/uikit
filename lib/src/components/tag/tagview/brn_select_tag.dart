@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 选择模式的标签组合
 /// 支持流式和横向布局

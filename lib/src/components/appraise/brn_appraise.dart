@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/appraise/brn_mulit_select_tags.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/appraise/brn_mulit_select_tags.dart';
 
 /// 点击表情或者星星时的回调
 /// index 点击的表情或者星星的index

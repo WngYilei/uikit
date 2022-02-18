@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/utils/brn_multi_click_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/utils/brn_multi_click_util.dart';
 
 /// 多个文字按钮组成的按钮集合
 /// 展示规则：

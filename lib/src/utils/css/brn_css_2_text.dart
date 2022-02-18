@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/src/utils/css/brn_core_funtion.dart';
+import 'package:UIKit/src/utils/css/brn_core_funtion.dart';
 
 /// 将CSS格式的标签转为文本
 class BrnCSS2Text {

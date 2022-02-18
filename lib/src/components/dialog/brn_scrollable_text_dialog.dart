@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/utils/css/brn_core_funtion.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/utils/css/brn_core_funtion.dart';
 
 ///  纯文本展示Dialog 超过定高可滚动
 ///  可有操作区域也可没有皂搓区域

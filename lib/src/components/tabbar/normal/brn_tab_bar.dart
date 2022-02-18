@@ -4,8 +4,8 @@ import 'package:badges/badges.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/popup/brn_measure_size.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/popup/brn_measure_size.dart';
 
 
 /// 单个tab选中的回调

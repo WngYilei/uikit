@@ -1,4 +1,4 @@
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 组件配置基类
 abstract class BrnBaseConfig {

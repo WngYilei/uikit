@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 typedef BrnMultiSelectDialogClickSubmitCallback = bool Function(List<MultiSelectItem> data);
 typedef BrnMultiSelectDialogOnItemClickCallback = void Function(

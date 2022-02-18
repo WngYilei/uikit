@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 描述: 评价组件bottom picker，
 /// 对BrnAppraise做了一层封装，可直接使用在showDialog里面

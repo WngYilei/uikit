@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 强化数字展示的组件
 ///

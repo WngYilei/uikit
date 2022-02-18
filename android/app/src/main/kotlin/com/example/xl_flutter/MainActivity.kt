@@ -1,4 +1,4 @@
-package com.example.xl_flutter
+package com.example.UIKit
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity() {

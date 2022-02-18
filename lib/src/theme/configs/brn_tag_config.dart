@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 标签配置类
 class BrnTagConfig extends BrnBaseConfig {

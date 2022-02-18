@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/appraise/brn_appraise_emoji_item.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/appraise/brn_appraise_emoji_item.dart';
 
 /// 描述: 表情评价列表
 ///       最多支持5个表情，默认也是5个，支持选择任意个数，

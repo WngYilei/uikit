@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 //将标签属性 转为 相当的style
 class BrnConvertUtil {

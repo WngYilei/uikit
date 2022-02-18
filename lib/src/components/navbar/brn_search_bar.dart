@@ -2,8 +2,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/navbar/brn_appbar_theme.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/navbar/brn_appbar_theme.dart';
 
 /// 左侧leading的点击回调，
 /// textEditingController 是搜索框的控制器，暴漏给使用者去处理 是否情况等操作

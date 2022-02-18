@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 右侧为箭头的卡片标题组件
 ///

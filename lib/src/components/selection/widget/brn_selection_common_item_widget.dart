@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/selection/brn_selection_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/selection/brn_selection_util.dart';
 
 typedef void ItemSelectFunction(BrnSelectionEntity entity);
 

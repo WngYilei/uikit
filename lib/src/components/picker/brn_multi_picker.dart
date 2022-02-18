@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/base/brn_picker.dart';
-import 'package:xl_flutter/src/components/picker/base/brn_picker_title.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/base/brn_picker.dart';
+import 'package:UIKit/src/components/picker/base/brn_picker_title.dart';
 
 ///数据选择控件高度
 const pickerHeight = 240.0;

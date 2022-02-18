@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/src/components/selection/controller/brn_selection_view_date_picker_controller.dart';
+import 'package:UIKit/src/components/selection/controller/brn_selection_view_date_picker_controller.dart';
 
 typedef void MaskClickFunction(int index);
 

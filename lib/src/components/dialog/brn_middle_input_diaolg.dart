@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 可输入文字的弹窗。从上至下依次是 标题[title]、提示信息[message]、输入框，底部左右两个按钮，左边取消，右边确定。
 class BrnMiddleInputDialog {

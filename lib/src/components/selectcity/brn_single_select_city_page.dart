@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:lpinyin/lpinyin.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/utils/font/brn_font.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/utils/font/brn_font.dart';
 
 /// 简述：[BrnSingleSelectCityPage]是用于城市选择的单选页面，
 /// 功能：多可以自定制导航栏文案，搜索文案信息，定位信息，右侧可快速滑动查看城市

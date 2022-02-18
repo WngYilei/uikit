@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/dialog/brn_dialog_utils.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/dialog/brn_dialog_utils.dart';
 
 /// 底部按钮的点击监听回调
 typedef DialogIndexedActionClickCallback = void Function(int index);

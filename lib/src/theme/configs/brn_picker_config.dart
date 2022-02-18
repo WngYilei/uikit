@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 选择器配置
 class BrnPickerConfig extends BrnBaseConfig {

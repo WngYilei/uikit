@@ -4,7 +4,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:xl_flutter/src/components/popup/brn_measure_size.dart';
+import 'package:UIKit/src/components/popup/brn_measure_size.dart';
 
 /// popWindow位于targetView的方向
 enum BrnOverlayPopDirection { none, top, bottom, left, right }

@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/src/utils/brn_multi_click_util.dart';
+import 'package:UIKit/src/utils/brn_multi_click_util.dart';
 
 const double _BFontSize = 16;
 const Color _BTextColor = Colors.white;

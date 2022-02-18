@@ -3,9 +3,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/form/utils/brn_form_util.dart';
-import 'package:xl_flutter/src/utils/font/brn_font.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/form/utils/brn_form_util.dart';
+import 'package:UIKit/src/utils/font/brn_font.dart';
 
 ///
 /// 标题可选文本输入型录入项

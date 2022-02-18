@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:photo_view/photo_view.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 class BrnPhotoGroupConfig extends BrnBasicGroupConfig {
   final List<String> urls;

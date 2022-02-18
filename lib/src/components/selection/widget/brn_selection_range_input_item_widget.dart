@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/utils/brn_event_bus.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/utils/brn_event_bus.dart';
 
 typedef void OnRangeChangedFunction(String minInput, String maxInput);
 typedef void OnFocusChangedFunction(bool focus);

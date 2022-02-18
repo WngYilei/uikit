@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:xl_flutter/home/dialog_entry_page.dart';
+import 'package:UIKit/home/dialog_entry_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);

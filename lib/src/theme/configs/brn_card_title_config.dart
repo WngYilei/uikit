@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 卡片标题 配置类
 class BrnCardTitleConfig extends BrnBaseConfig {

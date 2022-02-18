@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/appraise/brn_flutter_gif_image.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/appraise/brn_flutter_gif_image.dart';
 
 /// 评价组件单个表情包gif图
 

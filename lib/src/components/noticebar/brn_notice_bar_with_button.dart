@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/src/components/noticebar/brn_marquee_text.dart';
+import 'package:UIKit/src/components/noticebar/brn_marquee_text.dart';
 
 /// 描述: 左边标签，右边按钮的通知
 /// 1. 支持十种默认样式

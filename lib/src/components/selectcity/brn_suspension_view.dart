@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// on all sus section callback(map: Used to scroll the list to the specified tag location).
 typedef void OnSusSectionCallBack(Map<String, int> map);

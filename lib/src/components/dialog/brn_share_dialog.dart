@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/dialog/brn_dialog_utils.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/dialog/brn_dialog_utils.dart';
 
 /// 点击item回调
 /// shareChannel 是分享渠道一般传入 [BrnShareItemConstants] 下的值

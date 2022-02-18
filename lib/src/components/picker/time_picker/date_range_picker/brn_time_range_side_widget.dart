@@ -2,9 +2,9 @@ import 'dart:math';
 
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/base/brn_picker.dart';
-import 'package:xl_flutter/src/components/picker/time_picker/brn_date_picker_constants.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/base/brn_picker.dart';
+import 'package:UIKit/src/components/picker/time_picker/brn_date_picker_constants.dart';
 
 /// TimeRangeSidePicker widget.
 

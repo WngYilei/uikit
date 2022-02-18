@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/navbar/brn_appbar_theme.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/navbar/brn_appbar_theme.dart';
 
 /// 查看大图配置
 class BrnGalleryDetailConfig extends BrnBaseConfig {

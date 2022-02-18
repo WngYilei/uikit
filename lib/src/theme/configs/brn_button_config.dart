@@ -1,5 +1,5 @@
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 按钮基础配置
 class BrnButtonConfig extends BrnBaseConfig {

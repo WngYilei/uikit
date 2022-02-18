@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 ///
 /// 状态标签是反应状态的形式，根据不同的[tagState]呈现不同的背景色和文字颜色

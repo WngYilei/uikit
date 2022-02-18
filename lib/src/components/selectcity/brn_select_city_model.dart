@@ -1,5 +1,5 @@
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 class BrnSelectCityModel extends ISuspensionBean {
   String name;

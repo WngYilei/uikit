@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/popup/brn_measure_size.dart';
-import 'package:xl_flutter/src/components/selection/brn_selection_util.dart';
-import 'package:xl_flutter/src/components/selection/widget/brn_flat_selection_item.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/popup/brn_measure_size.dart';
+import 'package:UIKit/src/components/selection/brn_selection_util.dart';
+import 'package:UIKit/src/components/selection/widget/brn_flat_selection_item.dart';
 
 /// 支持tag 、输入 、range、选择等类型混合一级筛选
 /// 也可支持点击选项跳转二级页面

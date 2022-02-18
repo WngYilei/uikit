@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/time_picker/date_picker/brn_date_widget.dart';
-import 'package:xl_flutter/src/components/selection/controller/brn_selection_view_date_picker_controller.dart';
-import 'package:xl_flutter/src/components/selection/widget/brn_selection_datepicker_animate_widget.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/time_picker/date_picker/brn_date_widget.dart';
+import 'package:UIKit/src/components/selection/controller/brn_selection_view_date_picker_controller.dart';
+import 'package:UIKit/src/components/selection/widget/brn_selection_datepicker_animate_widget.dart';
 
 typedef void OnRangeChangedFunction(String minInput, String maxInput);
 typedef void OnTappedFunction();

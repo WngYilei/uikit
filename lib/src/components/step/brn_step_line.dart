@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 ///[index]这个属性主要是为了给左边的时间轴画部件来用的
 ///[timeAxisSize]时间轴的大小必须要的。

@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/dialog/brn_dialog_utils.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/dialog/brn_dialog_utils.dart';
 
 typedef BrnSingleSelectOnSubmitCallback = Function(String data);
 typedef BrnSingleSelectOnItemClickCallback = void Function(BuildContext dialogContext, int index);

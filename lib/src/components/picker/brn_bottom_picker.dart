@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/base/brn_picker_title.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/base/brn_picker_title.dart';
 
 /// 该picker用于显示自定的底部弹出框: 对话框结构如下：
 ///              column

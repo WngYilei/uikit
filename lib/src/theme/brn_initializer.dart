@@ -1,5 +1,5 @@
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/theme/img/brn_theme_img_utils.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/theme/img/brn_theme_img_utils.dart';
 
 ///bruno初始化
 

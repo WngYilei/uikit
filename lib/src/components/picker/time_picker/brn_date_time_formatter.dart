@@ -2,8 +2,8 @@ import 'dart:math';
 
 
 import 'package:intl/intl.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/time_picker/brn_date_picker_constants.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/time_picker/brn_date_picker_constants.dart';
 
 const String DATE_FORMAT_SEPARATOR = r'[|,-\._: ]+';
 

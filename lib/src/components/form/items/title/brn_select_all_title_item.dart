@@ -1,7 +1,7 @@
 
 import 'package:flutter/widgets.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/form/utils/brn_form_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/form/utils/brn_form_util.dart';
 
 ///
 /// 全选类型类型录入项

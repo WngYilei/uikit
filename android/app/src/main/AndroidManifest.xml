@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.xl_flutter">
+    package="com.example.UIKit">
    <application
-        android:label="xl_flutter"
+        android:label="UIKit"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

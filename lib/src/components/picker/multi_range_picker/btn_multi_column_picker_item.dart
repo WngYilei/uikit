@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/multi_range_picker/brn_multi_column_picker_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/multi_range_picker/brn_multi_column_picker_util.dart';
 
 typedef void ItemSelectFunction(BrnPickerEntity entity);
 

@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/navbar/brn_appbar_theme.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/navbar/brn_appbar_theme.dart';
 
 typedef BrnWidgetBuilder = Widget Function();
 

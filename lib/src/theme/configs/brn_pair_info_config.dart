@@ -1,5 +1,5 @@
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 ///BrnPairInfoTable的配置文件   全局配置
 class BrnPairInfoTableConfig extends BrnBaseConfig {

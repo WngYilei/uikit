@@ -1,6 +1,6 @@
 
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/selection/brn_selection_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/selection/brn_selection_util.dart';
 
 abstract class BrnSelectionConverterDelegate {
   /// 统一的数据结构 转换为 用户需要的数据结构，并通过 [BrnSelectionOnSelectionChanged] 回传给用户使用。

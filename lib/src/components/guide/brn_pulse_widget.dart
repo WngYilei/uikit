@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 脉冲组件, 样式为循环扩大的小圆点
 class PulseWidget extends StatefulWidget {

@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/picker/time_picker/brn_date_picker_constants.dart';
-import 'package:xl_flutter/src/components/picker/time_picker/date_range_picker/brn_date_range_widget.dart';
-import 'package:xl_flutter/src/components/picker/time_picker/date_range_picker/brn_time_range_widget.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/picker/time_picker/brn_date_picker_constants.dart';
+import 'package:UIKit/src/components/picker/time_picker/date_range_picker/brn_date_range_widget.dart';
+import 'package:UIKit/src/components/picker/time_picker/date_range_picker/brn_time_range_widget.dart';
 
 /// 时间范围选择展示模式
 enum BrnDateTimeRangePickerMode {

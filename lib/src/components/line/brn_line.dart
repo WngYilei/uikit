@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 用于分割页面组件元素的横向分割线
 /// 支持自定义颜色、左右间距、和高度

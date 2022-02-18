@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// section为所在行数（0或1），index是在第几位（从0开始记）, shareItem为渠道相关信息
 typedef void BrnShareActionSheetItemClickCallBack(int section, int index, BrnShareItem shareItem);

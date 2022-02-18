@@ -2,10 +2,10 @@ import 'dart:math';
 
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/components/selection/brn_selection_util.dart';
-import 'package:xl_flutter/src/components/selection/widget/brn_selection_menu_widget.dart';
-import 'package:xl_flutter/src/components/selection/widget/brn_selection_single_list_widget.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/components/selection/brn_selection_util.dart';
+import 'package:UIKit/src/components/selection/widget/brn_selection_menu_widget.dart';
+import 'package:UIKit/src/components/selection/widget/brn_selection_single_list_widget.dart';
 
 typedef void SingleListItemSelect(int listIndex, int index, BrnSelectionEntity entity);
 

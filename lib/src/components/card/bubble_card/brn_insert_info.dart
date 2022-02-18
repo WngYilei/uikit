@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 气泡背景的文本
 /// 气泡：背景色为Color(0xFFF8F8F8)的灰色Container

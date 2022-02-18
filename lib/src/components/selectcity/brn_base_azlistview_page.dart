@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:lpinyin/lpinyin.dart';
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 //带右侧定位器的list页面
 abstract class BaseAZListViewPage extends StatefulWidget {

@@ -1,5 +1,5 @@
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 class BrnThemeConfigurator {
   static const String BRUNO_CONFIG_ID = 'BRUNO_CONFIG_ID';

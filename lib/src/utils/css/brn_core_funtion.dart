@@ -1,8 +1,8 @@
 
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/bruno.dart';
-import 'package:xl_flutter/src/utils/css/brn_util.dart';
+import 'package:UIKit/bruno.dart';
+import 'package:UIKit/src/utils/css/brn_util.dart';
 import 'package:xml/xml_events.dart' as xml;
 
 typedef BrnHyperLinkCallback = Function(String text, String url);

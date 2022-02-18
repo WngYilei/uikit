@@ -1,7 +1,7 @@
 
 import "package:flutter/foundation.dart";
 import 'package:flutter/material.dart';
-import 'package:xl_flutter/src/utils/brn_event_bus.dart';
+import 'package:UIKit/src/utils/brn_event_bus.dart';
 
 class BrnSelectionListViewController extends ChangeNotifier {
   double listViewTop; //下拉筛选列表顶部坐标

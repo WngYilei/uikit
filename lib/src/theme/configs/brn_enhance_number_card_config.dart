@@ -1,5 +1,5 @@
 
-import 'package:xl_flutter/bruno.dart';
+import 'package:UIKit/bruno.dart';
 
 /// 强化数字展示组件配置
 class BrnEnhanceNumberCardConfig extends BrnBaseConfig {
