@@ -474,8 +474,7 @@ class DialogEntryPage extends StatelessWidget {
             },
           ),
         ),
-        showIcon: true,
-        onConfirm: () {
+        showIcon: true, onConfirm: () {
       BrnToast.show("确定", context);
     }, onCancel: () {
       Navigator.pop(context);
