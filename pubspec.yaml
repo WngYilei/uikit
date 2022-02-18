@@ -1,0 +1,48 @@
+name: xl_flutter
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  xml: ^3.5.0
+  lpinyin: ^1.0.7
+  path_drawing: ^0.4.1
+  flutter_easyrefresh: ^2.1.1
+  intl: ^0.16.1
+  photo_view: ^0.13.0
+  provider: ^3.2.0
+  badges: ^1.2.0
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/icons/radio/
+    - assets/images/no_data.png
+    - assets/images/two_line_bubble.png
+    - assets/json/
+    - assets/json/china.json
+    - assets/china.json
+    - assets/
+    - assets/image/
+  fonts:
+    - family: Condensed
+      fonts:
+        - asset: assets/fonts/DINCondensed-Bold.ttf
